@@ -1,0 +1,7 @@
+.*.sw*
+/tmp
+/cake_libs
+/bin
+/build
+*.o
+*_test
